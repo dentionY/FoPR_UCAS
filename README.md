@@ -1,5 +1,5 @@
 # FoPR_UCAS
-This repository includes the solutions to the questions in PR in UCAS, 2021. There are six files responding to six tasks.
+This repository includes the solutions to the problems in PR in UCAS, 2021. There are six files responding to six tasks.
 
 Each task has the Questions and Answers subtask or(and) the Programming subtask.
 
